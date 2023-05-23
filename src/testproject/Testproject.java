@@ -6,6 +6,7 @@ package testproject;
 
 //added comment for fetchmerge
 //2nd comment 
+//added comment for pull
 public class Testproject {
 
     /**
